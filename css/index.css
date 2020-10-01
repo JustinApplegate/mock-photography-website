@@ -1,0 +1,15 @@
+.introduction {
+    text-align:center;
+}
+h1 {
+    margin:1em;
+}
+.portfolio-small {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    margin:3em 0;
+}
+.photo {
+    margin:1em;
+}

@@ -1,0 +1,30 @@
+.content {
+    text-align:center;
+}
+.reviews {
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+}
+.reviews-col {
+    width:400px;
+    margin:1em;
+    padding:10px;
+}
+h1 {
+    margin:1em;
+}
+.quote {
+    background-color: #EAECEE;
+    border:1px solid #D5D8DC;
+    padding:1em;
+    color:#808B96;
+    margin:3em 0;
+    border-radius:15px;
+}
+.photo:hover {
+    opacity: 0.7;
+}
+p {
+    margin-bottom:0.5em;
+}
